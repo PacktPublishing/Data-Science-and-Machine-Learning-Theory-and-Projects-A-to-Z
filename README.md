@@ -17,7 +17,7 @@ Data Science and Machine Learning (Theory and Projects) A to Z [Video]](https://
 <LI>Recurrent Neural Networks with Python
 <LI>Reinforcement Learning</LI></UL></DIV>
 
-## Instructions and Navigation
+
 ### Assumed Knowledge
 <p>This course is designed for people who want to become perfect in their data speak; people who want to learn data science and machine learning with real datasets in data science; people from a non-engineering background who want to enter the data science field; people who want to enter the machine learning field; people who want to learn data science and machine learning along with its implementation in realistic projects. <br/>For this course, no prior knowledge is needed. You will start with the basic concepts and gradually build your knowledge of the subject.</p>
 
